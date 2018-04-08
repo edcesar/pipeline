@@ -1,2 +1,2 @@
 # pipeline
-Laboratório de testes, testando padrão pipeline
+Laboratório de testes, pipeline
